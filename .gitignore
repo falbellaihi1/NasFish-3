@@ -1,0 +1,24 @@
+:wqvenv/
+.vscode/
+__pycache__/
+test.db
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+/venv/
+#pycharm
+.idea/
+/img/test_image.jpg
+/img/test_image.png
+
+
+
